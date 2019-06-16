@@ -8,3 +8,17 @@
 .box-simple {
   min-height: 230px;
 }
+
+/* Make Swabian Logo fit the navigation bar*/
+.navbar-brand>img {
+  max-height: 45px;
+  max-width: 280px;
+}
+
+figure {
+  margin: 2em;
+}
+
+#copyright a {
+  color: gray;
+}
